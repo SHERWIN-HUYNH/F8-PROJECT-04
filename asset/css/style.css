@@ -1013,9 +1013,7 @@ margin-bottom: 22px;
   width: 100%;
   height: fit-content;
 }
-..swiper-slide{
 
-}
 .swiper-slide img{
   width: 100%;
 }
@@ -1244,9 +1242,7 @@ margin-bottom: 22px;
   
 }
 
-.footer_img-wrapper{
-  
-}
+
 .footer_left .header_img{
   margin-bottom: 35px;
 }
@@ -1262,6 +1258,7 @@ margin-bottom: 22px;
   width: 268px;
   height: 46px;
   background: #FFF;
+  padding: 10px 16px;
 }
 .form-group input::placeholder{
  padding: 22px 16px 0 16px;
@@ -1307,8 +1304,7 @@ margin-bottom: 22px;
   width: 226px;
   flex-shrink: 0;
 }
-.foooter-list{
-}
+
 .footer_item{
   width: 50%;
   white-space: nowrap;
